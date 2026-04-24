@@ -1,6 +1,7 @@
 # Learning C & Graphics Programming
 
 A documented progression from zero C knowledge toward Graphics/Engine Programming.
+Write-up at: [impeccableshoddy.github.io/shack/ray-tracer](https://impeccableshoddy.github.io/shack/ray-tracer)
 
 ## C Foundations
 Programs written while learning C fundamentals:
